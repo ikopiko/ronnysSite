@@ -1,0 +1,40 @@
+{
+  "name": "Ronnyspizza",
+  "version": "1.0.0",
+  "description": "Ronnyspizza",
+  "author": "ronnyspizza.com",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/font-awesome": "1.0.4",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "fibers": "^5.0.0",
+    "firebase": "^7.9.3",
+    "material-design-icons": "^3.0.1",
+    "nuxt": "^2.14.7",
+    "vue": "^2.6.12",
+    "vue-backtotop": "^1.6.1",
+    "vue-carousel": "^0.18.0",
+    "vue-server-renderer": "2.6.12",
+    "vue-toastification": "^0.8.0",
+    "vueperslides": "^2.8.2"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.8.55",
+    "@nuxtjs/vuetify": "~1.11.2",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "node-sass": "^4.13.1",
+    "prettier": "^1.19.1",
+    "sass-loader": "^8.0.2",
+    "vue-svg-loader": "^0.16.0",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
